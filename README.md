@@ -34,7 +34,6 @@
     </table>
   </center>
   <hr><br>
-  <center>
     <table>
       <tr>
         <td>
@@ -45,10 +44,7 @@
         </td>
       </tr>
     </table>
-  </center>
-  <br>
   <hr>
-  <center>
     <table>
       <tr>
         <td>
@@ -62,22 +58,14 @@
       </tr>
       </td>
     </table>
-  </center>
  <br>
   <hr>
-  <center>
+
     <table>
       <tr>
-        <td>
           <h1>contacts</h1>
           <a href="contacts.html">contacts</a>
       </tr>
-      </td>
     </table>
-  </center>
-  <hr>
-  <br>
-
 </body>
-
 </html>
