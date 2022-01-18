@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -45,6 +45,7 @@
       </tr>
     </table>
   <hr>
+  
     <table>
       <tr>
         <td>
@@ -55,17 +56,18 @@
             <li>JAVA⭐⭐⭐⭐⭐</li>
             <li>bootstrap⭐⭐⭐⭐⭐</li>
           </ul>
+          </td>
       </tr>
-      </td>
-    </table>
- <br>
+      </table>
   <hr>
 
     <table>
       <tr>
+        <td>
           <h1>contacts</h1>
           <a href="contacts.html">contacts</a>
+          </td>
       </tr>
-    </table>
+     </table>
 </body>
 </html>
