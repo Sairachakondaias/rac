@@ -46,7 +46,8 @@
       </tr>
     </table>
   </center>
-  <hr><br>
+  <br>
+  <hr>
   <center>
     <table>
       <tr>
@@ -62,7 +63,8 @@
       </td>
     </table>
   </center>
-  <hr><br>
+ <br>
+  <hr>
   <center>
     <table>
       <tr>
@@ -73,6 +75,8 @@
       </td>
     </table>
   </center>
+  <hr>
+  <br>
 
 </body>
 
